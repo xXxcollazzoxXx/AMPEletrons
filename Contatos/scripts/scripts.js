@@ -16,6 +16,6 @@ function copyHotmail(){
     copyText("amp_maquinas@hotmail.com");    
 }
 
-function copyFacebook(){    
+/*function copyFacebook(){    
     copyText("facebook_amp_eletrons");    
-}
+}*/

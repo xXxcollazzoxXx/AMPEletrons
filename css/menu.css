@@ -2,7 +2,8 @@
     background-color: rgb(87, 88, 90);
     padding-top: 5px;
     padding-left: 20px;
-    padding-bottom: 5px;    
+    padding-bottom: 5px;
+    border-radius: 15px;
 }
 
 .nav-item a{
@@ -32,13 +33,6 @@
     font-weight: bold;
     background-color: rgb(87, 88, 90);
 }
-
-#login{
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
-    border-top-left-radius: 15px;
-    border-bottom-left-radius: 15px;
-  }
 
 #imgmanutencao{
     width: 200px; 

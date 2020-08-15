@@ -1,10 +1,26 @@
 main{
-    padding-bottom: 50px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.jumbotron{
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+#carouselExampleCaptions,
+.carousel-inner{
+    border-radius: 15px;
 }
 
 #carouselitem{
     height: 350px;
+    border-radius: 15px;
 }    
+
+h1{
+    text-align: center;
+}
 
 .carousel-item h5,
 .title-carrousel{
